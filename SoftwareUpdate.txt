@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
