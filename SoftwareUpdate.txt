@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
