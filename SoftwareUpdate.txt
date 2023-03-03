@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
