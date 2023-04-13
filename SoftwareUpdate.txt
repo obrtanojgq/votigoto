@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
