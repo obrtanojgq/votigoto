@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update Discord and Contributing Guide URLs (#9270)
