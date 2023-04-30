@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
