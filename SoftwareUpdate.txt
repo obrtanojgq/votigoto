@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
