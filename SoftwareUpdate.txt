@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add bgr hyperparameter (#9139)
