@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Pass callbacks to validator (#7320)
