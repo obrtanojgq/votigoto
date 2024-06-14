@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Compress docs images (#8124)
